@@ -13,4 +13,4 @@ En lo que al <a href="https://github.com/Pachecards/Arduino-4-Servos/blob/master
 
 <img src="https://raw.githubusercontent.com/Pachecards/Arduino-4-Servos/master/ArduinoEx4Prototipo.png" height = 350 weight = 350 padding = 2px>
 
-Una vez conseguido, pasarlo a la versión física conlleva a cambiar de servo, ya que el que tenemos es bastante peculiar, pero la base es la misma así que conseguimos llevarlo a cabo. Adjunto video de la versión final.
+Una vez conseguido, pasarlo a la versión física conlleva a cambiar de servo, ya que el que tenemos es bastante peculiar, pero la base es la misma así que conseguimos llevarlo a cabo. Adjunto <a href="https://github.com/Pachecards/Arduino-4-Servos/blob/master/ArduinoUnoEx4.mp4">video de la versión final</a>.
